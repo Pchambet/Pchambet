@@ -25,5 +25,5 @@ I build things from first principles — not to reinvent the wheel, but to under
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre_Chambet-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pierre-chambet-289a5b220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pierre_Chambet-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pierre-chambet/)
 [![Email](https://img.shields.io/badge/Email-pierrechambet@gmail.com-EA4335?style=flat&logo=gmail)](mailto:pierrechambet@gmail.com)

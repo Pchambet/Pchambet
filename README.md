@@ -39,8 +39,12 @@ Merged upstream: [POT #798](https://github.com/PythonOT/POT/pull/798), [pytorch-
 
 ## Toolbox
 
-| | |
-|---|---|
+- **Modelling:** scikit-learn, LightGBM, PyTorch, TensorFlow/Keras; conformal prediction, causal meta-learners, Bayesian filtering.
+- **Optimisation:** linear programming (HiGHS), cvxpy, model predictive control, distributionally robust optimisation, optimal transport.
+- **Data:** Python (pandas, NumPy, SciPy), SQL (DuckDB, PostgreSQL), dbt, R, Power BI.
+- **Engineering:** FastAPI, React and TypeScript, Docker, GitHub Actions, uv, pytest, MCP servers.
+
+---|---|
 | **Modelling** | scikit-learn, LightGBM, PyTorch, TensorFlow/Keras; conformal prediction, causal meta-learners, Bayesian filtering |
 | **Optimisation** | linear programming (HiGHS), cvxpy, model predictive control, distributionally robust optimisation, optimal transport |
 | **Data** | Python (pandas, NumPy, SciPy), SQL (DuckDB, PostgreSQL), dbt, R, Power BI |
